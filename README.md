@@ -48,8 +48,8 @@ Se compararon múltiples modelos de regresión utilizando **Validación Cruzada*
 3.  **Bosque Aleatorio (Random Forest) Regressor:** Optimizado mediante ajuste de hiperparámetros.
 
 ### Resultados:
-| Modelo | sMAPE Final (Validación) |
-| :--- | :---: |
+| Modelo |
+| :--- |
 | sMAPE rougher: 1.8162870021414323 |
 | sMAPE final stage: 2.8021734106359526 |
 | sMAPE ponderado total: 2.555701808512323 |
