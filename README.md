@@ -72,3 +72,7 @@ Se compararon múltiples modelos de regresión utilizando **Validación Cruzada*
 1. Clona este repositorio.
 2. Asegúrate de tener instaladas las librerías `scikit-learn`, `pandas` y `matplotlib`.
 3. Ejecuta el notebook `gold_recovery_full.ipynb`.
+4. Junta los 2 archivos csv, leer nota.
+
+**NOTA**
+Este proyecto incluye 2 csv's pero existe otro que junta 2 dataframes, por motivos de practicidad y fluidez del repositorio, decidí no incluirlo en las descargas, ya que es un archivo grande.
